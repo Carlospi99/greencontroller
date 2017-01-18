@@ -1,0 +1,12 @@
+#greencontroller.
+#***Led Light***
+#if day light is under xx turn on the artifical light
+
+#***Water control**
+#if moist is under xx turn the water.
+
+
+#***temperture***
+#if temperture is under xxx or above xx do this.
+
+
